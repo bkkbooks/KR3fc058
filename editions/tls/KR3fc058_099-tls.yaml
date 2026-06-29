@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc058/tls/v1/juan/99
+seq: 99
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勾股算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc058.xml
+hash: sha256:24c2be6588a1a02249c89839e5b8584352808890a557bcf3866756b424f74559

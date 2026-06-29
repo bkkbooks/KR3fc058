@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc058/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 春間接奉手教並詢興居清適湥以為慰讀大著方程新術草一卷正負相當各率一出自然正從前傅刻之誤闡古人未發之覆愉快彌日句股細草前歲古愚太守見惠一本條段各圖細入毫芒真精思大力之作也閲鄉試名錄先生又復見遺頗為惋惜邇來主試諸公多以不得先生為憾竊聞先生文高品峻塵外之契談何容易此可為知者道也歴代史志能於一二年內就緒否此學甚孤名山不朽之業務祈勉力為之俾先覩為快耳謹此奉覆並候文安不宣弟潢頓首
+  hash: sha256:282283c901c63fed0e8093b9f38d6ae5ef68ab93b0d5c1df88987d7410aaa397
+metadata:
+  title: 勾股算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc058.xml
+hash: sha256:e182d01956ecdd267633315e63b0f6338ff492bf743993bc0051453340cd7703

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc058/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾友李尚之精法算著句股筭術細草一卷舉和較相求七十餘事以廿五術御之斯亦簡矣至其圖解精深鉤稽離合窮極幼眇使廣袤相形虛法成實義非藏心於密運術於神者孰能言之若是其明且乎葢李敬齊益古演段一洗術家溟涬之陋矣而猶不免於疎略好學深思之士得尚之書而讀之古學之興庶有冀也因亟為梓之廣其傅焉嘉慶丁卯四月十三日陽城張敦仁識於無錫舟中
+  hash: sha256:d93524e0e8b1c13244f78fada11bdf1ae8ae256770a546cccda8e92cecbef77d
+metadata:
+  title: 勾股算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc058.xml
+hash: sha256:0b835a0e3d7bbc5062000f7f866b063959f4b771f65a208c301e37caf88f1783

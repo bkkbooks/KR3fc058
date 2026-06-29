@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc058/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數不足為法也歲丙寅仁和許子雲庵乃蕃南昌萬子小廉啟畇從余游兼及句股筭事講論之暇作此卷示之俾知隨問立術有一以貫之者耳七夕前一日李銳記
+  hash: sha256:21b2ec0819494cdd93a0c96c8d596e3d5d70175826fa2e8c8ffbceb466e26354
+metadata:
+  title: 勾股算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc058.xml
+hash: sha256:a208a800ef75a28266d264cea5a0c81e8e9a76df9dcf6b4c68b782d97ff0a1b2

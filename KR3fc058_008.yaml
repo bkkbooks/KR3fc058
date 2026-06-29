@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc058/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 元和李鋭目句股求弦句弦求股股弦求句句句股和以句減和餘即股依句股術入之句句股較以句加較即股依句股術入之句句弦和以句減和餘即弦依句弦術入之句句弦較以句加較即弦依句弦術入之句股弦和求股弦句股弦較求股弦股句股和以股減和餘即句依句股術入之股句股較以較減股即句依句股術入之股句弦和求句弦股句弦較求句弦股股弦和以股減和餘即弦依股弦術入之股股弦較以股價較即弦依股弦術入之弦句股和求句股弦句股較求句股
+  hash: sha256:10eb0688a0e5dee4441ee1860d797b31502a1afadef6528c3d318ef1141a15b5
+metadata:
+  title: 勾股算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc058.xml
+hash: sha256:3eca933de48a4fc346013ba5cb1cfbed9a34fe0c2a53c8d513a5c1eb515ef42c

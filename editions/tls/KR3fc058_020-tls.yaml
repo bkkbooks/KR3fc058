@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc058/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句較和句較較和較相加半之即句相減餘半之即股弦較依句股弦較術入之今有句二十一股二十八問弦幾何荅曰三十五術曰二冪相加為實開平方得弦草曰置句二十一自之得四百四十一為句冪又置股二十八自之得七百八十四為股冪二冪相加得一千二百二十五為實開平方得三十五即弦也合開解曰句自乘為朱冪股自乘為青冪令出入相補恰成一段弦冪故二冪相加開方得弦也今有句一十五弦三十九問股幾何荅曰三十六術曰二冪相減餘為實開平方得股草曰置句一十五自之得二百二十五為句冪又置弦三十九自之得一千五百二十一為弦冪二
+  hash: sha256:ad8210c18a420f4a12dfea97d266f7e63f9768e7a5bc641c846c92410e2f5659
+metadata:
+  title: 勾股算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc058.xml
+hash: sha256:ad16ede99bbcd7e0aed8c407932ae1d38fccfc90d384b078bf87555b357e705f

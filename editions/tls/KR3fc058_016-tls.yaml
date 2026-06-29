@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc058/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股較句和和求句股弦句股較句和較二較相減餘即弦依弦句股較術入之句股較句較和和較相加即弦依弦句股較術入之句股較句較較求句股弦四問句弦和句和和二和相減餘即股依股句弦和術入之句弦和句和較求句股弦二問句弦和句較和二和相減餘即股依股句弦和術入之句弦和句較較求句股弦二問句弦較句和和求句股弦句弦較句和較二較相減餘即股依股句弦較術入之句弦較句較和求句股弦四問句弦較句較較二較相加即股依股句弦較術入之股弦和句和和二和相減餘即句依句股弦和術入之
+  hash: sha256:31c3c5c4030694635196cbc6ef6141a45f77d9a05d6a9b1eb45f1924bbe32897
+metadata:
+  title: 勾股算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc058.xml
+hash: sha256:53753e2cac2fd763c2c6833213d532c36067cf15ac02f07bf0c0d040e9a7d3de
