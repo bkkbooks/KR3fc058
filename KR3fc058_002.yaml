@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 數不足為法也歲丙寅仁和許子雲庵乃蕃南昌萬子小廉啓畇從余游兼及句股算事講論之暇作此卷示之俾知隨問立術有一以貫之者耳七夕前一日李鋭記
-  hash: sha256:23e6f3c47c7d27fb6571b704b7dab53cfde66b7bb8bb46ab2caec40c16b16b38
+  text: 數不足為法也歲丙寅仁和許子雲庵乃蕃南昌萬子小廉啟畇從余游兼及句股筭事講論之暇作此卷示之俾知隨問立術有一以貫之者耳七夕前一日李銳記
+  hash: sha256:21b2ec0819494cdd93a0c96c8d596e3d5d70175826fa2e8c8ffbceb466e26354
 metadata:
   title: 勾股算術細草
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc058.xml
-hash: sha256:c499d459a4d015f21693042eb8e7e6973f8ce82f08d69cbc9fc2ddd34e4b38da
+hash: sha256:a208a800ef75a28266d264cea5a0c81e8e9a76df9dcf6b4c68b782d97ff0a1b2
